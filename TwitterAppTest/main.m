@@ -2,7 +2,7 @@
 //  main.m
 //  TwitterAppTest
 //
-//  Created by Susanna Giboni on 5/8/14.
+//  Created by Antonio Melgarejo on 5/8/14.
 //  Copyright (c) 2014 ___FULLUSERNAME___. All rights reserved.
 //
 
